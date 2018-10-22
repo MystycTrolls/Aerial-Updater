@@ -16,5 +16,3 @@ Simple and that, Thank you for installing!
 (Right here thanks)
 
 We appriciate all Issues and Pull requests.
-
-If you know how to create an Workflow that Auto runs every week or so that would be great.
