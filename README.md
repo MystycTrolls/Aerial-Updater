@@ -1,6 +1,19 @@
 # Aerial-Updater
 This works with https://github.com/JohnCoates/Aerial
 # Important
-1) Install here.
+* This is  CURRENTLY not a AUTO UPDATER, it is a Workflow that when run will update Aerial to the latest version.
+* We are currently working on a Auto Update feature in the future.
+# Set up
+1) Install [here](https://github.com/NightRaider73/Aerial-Updater/releases/download/1.0/Update.Aerial.app.zip).
+2) Next move the file to your Desktop (Or somewere you can't forget about it).
+3) Every week or so just double click the Workflow and it will auto update Aerial for you.
+Simple and that, Thank you for installing!
 # How it works:
-First it runs a simple Ruby script to update brew cast, then it runs the brew cast upgrade, which will update Aerial
+1) It runs a simple Ruby script: `brew cask update`, which will update Brew Cask (Aerial can't be updated if Brew Cask is not).
+2) Then it runs the Ruby script to update all Brew Cask installed packages: `brew cask upgrade`.
+3) Workflow setup:
+(Right here thanks)
+
+We appriciate all Issues and Pull requests.
+
+If you know how to create an Workflow that Auto runs every week or so that would be great.
