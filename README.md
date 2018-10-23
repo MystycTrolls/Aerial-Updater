@@ -2,10 +2,10 @@
 This works with https://github.com/JohnCoates/Aerial
 ## Important
 * This is  currently not a auto updater, it is a Workflow that when run will update Aerial to the latest version.
-* Aerial updater is also in beta testing for Auto Update install Aerial Updater 1.1 Beta 1 [here](https://github.com/NightRaider73/Aerial-Updater/releases/download/v1.1beta1/Aerial.Auto.Update.zip).
+* Aerial updater is in beta testing for Auto Update install Aerial Updater 1.1 Beta 1 [here](https://github.com/NightRaider73/Aerial-Updater/releases/download/v1.1beta1/Aerial.Auto.Update.zip), see changes [here](https://github.com/NightRaider73/Aerial-Updater/releases/tag/v1.1beta1).
 * We are currently working on a Auto Update feature in the future.
 ## Set up
-1) Install [here](https://github.com/NightRaider73/Aerial-Updater/releases/download/v1.0/Update.Aerial.zip).
+1) Install [here](https://github.com/NightRaider73/Aerial-Updater/releases/download/v1.0/Update.Aerial.zip). [see changes here](https://github.com/NightRaider73/Aerial-Updater/releases/tag/v1.0).
 2) Next move the file to your Desktop (Or somewere you can't forget about it).
 3) Every week or so just double click the Workflow and it will auto update Aerial for you.
 Simple as that, Thank you for installing!
