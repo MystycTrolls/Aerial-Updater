@@ -13,6 +13,7 @@ Simple as that, Thank you for installing!
 1) It runs a simple Ruby script: `brew cask update`, which will update Brew Cask (Aerial can't be updated if Brew Cask is not).
 2) Then it runs the Ruby script to update all Brew Cask installed packages: `brew cask upgrade`.
 3) Workflow setup:
-(Right here thanks)
+
+![screen shot 2018-10-22 at 1 52 22 pm](https://user-images.githubusercontent.com/44180668/47318751-be405a80-d601-11e8-8081-2cb6ce7adb5a.png)
 
 We appriciate all Issues and Pull requests.
