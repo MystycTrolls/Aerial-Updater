@@ -2,6 +2,7 @@
 ## If you know how to create this please create a issue.
 I tryed running the shell sript under ruby but it didnt work, so I don't know if it is even possible.
 Sorry.
+The code seems to only work in Terminal.
 
 # Aerial-Updater
 This works with https://github.com/JohnCoates/Aerial
