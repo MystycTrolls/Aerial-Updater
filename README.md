@@ -18,7 +18,7 @@ Simple as that, Thank you for installing!
 
 ## Community
 - **Found a bug?** [Open an issue](https://github.com/NightRaider73/Aerial-Updater/issues/new). Try to be as specific as possible.
-- **Have a feature request?** [Open an issue](). Tell us why this feature would be useful, and why you and others would want it.
+- **Have a feature request?** [Open an issue](https://github.com/NightRaider73/Aerial-Updater/issues/new). Tell us why this feature would be useful, and why you and others would want it.
 
 ## Contribute
 We appreciate all pull requests.
