@@ -1,5 +1,9 @@
 # Aerial-Updater
 This works with https://github.com/JohnCoates/Aerial
+
+Aerial Updater is also maintained by:
+- [Guillaume Louel](https://github.com/glouel) ([Twitter](https://twitter.com/C_Wiz))
+
 ## Important
 * This is  currently not a auto updater, it is a Workflow that when run will update Aerial to the latest version.
 * Aerial updater is in beta testing for Auto Update install Aerial Updater 1.1 Beta 1 [here](https://github.com/NightRaider73/Aerial-Updater/releases/download/v1.1beta1/Aerial.Auto.Update.zip), see changes [here](https://github.com/NightRaider73/Aerial-Updater/releases/tag/v1.1beta1).
