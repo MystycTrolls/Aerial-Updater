@@ -1,5 +1,6 @@
 # Changing this Project
 ## If you know how to create this please create a issue.
+## Temporarly disabled
 I tryed running the shell sript under ruby but it didnt work, so I don't know if it is even possible.
 Sorry.
 The code seems to only work in Terminal.
